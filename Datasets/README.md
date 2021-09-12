@@ -17,3 +17,5 @@ https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-
 
 ## Australia's Mental Health and Wellbeing
 https://www.aihw.gov.au/reports-data/australias-health-performance/australias-health-performance-framework/national/all-australia/wellbeing/wellbeing?tab=3.3.2|Trend&tab=3.3.1|Population%20groups&filter=3.3.1|4|2017%E2%80%9318
+
+https://www.aihw.gov.au/reports-data/australias-health-performance/australias-health-performance-framework/national/all-australia/deaths/deaths/3_4_4?filter=3.4.4|4|2019&filter=3.4.4|2|Deaths&tab=3.4.4|Latest
