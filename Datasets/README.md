@@ -19,3 +19,10 @@ https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-
 https://www.aihw.gov.au/reports-data/australias-health-performance/australias-health-performance-framework/national/all-australia/wellbeing/wellbeing?tab=3.3.2|Trend&tab=3.3.1|Population%20groups&filter=3.3.1|4|2017%E2%80%9318
 
 https://www.aihw.gov.au/reports-data/australias-health-performance/australias-health-performance-framework/national/all-australia/deaths/deaths/3_4_4?filter=3.4.4|4|2019&filter=3.4.4|2|Deaths&tab=3.4.4|Latest
+
+## Australia's Suicide Rates
+https://www.aihw.gov.au/suicide-self-harm-monitoring/data/deaths-by-suicide-in-australia/suicide-deaths-by-state-territories
+
+https://www.aihw.gov.au/suicide-self-harm-monitoring/data/suspected-deaths-by-suicide/data-from-suicide-registers
+
+https://www.coronerscourt.vic.gov.au/sites/default/files/2021-08/Coroners%20Court%20Monthly%20Suicide%20Data%20Report%20-%20July%202021.pdf
