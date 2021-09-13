@@ -16,13 +16,13 @@ https://www.abs.gov.au/statistics/labour/employment-and-unemployment/job-vacanci
 https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product/latest-release#key-tables
 
 ## Australia's Mental Health and Wellbeing
+https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia/report-contents/mental-health-impact-of-covid-19
+
 https://www.aihw.gov.au/reports-data/australias-health-performance/australias-health-performance-framework/national/all-australia/wellbeing/wellbeing?tab=3.3.2|Trend&tab=3.3.1|Population%20groups&filter=3.3.1|4|2017%E2%80%9318
 
 https://www.aihw.gov.au/reports-data/australias-health-performance/australias-health-performance-framework/national/all-australia/deaths/deaths/3_4_4?filter=3.4.4|4|2019&filter=3.4.4|2|Deaths&tab=3.4.4|Latest
 
-## Australia's Suicide Rates
-https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia/report-contents/mental-health-impact-of-covid-19
-
+## Australia's Suicide Statistics
 https://www.aihw.gov.au/suicide-self-harm-monitoring/data/deaths-by-suicide-in-australia/suicide-deaths-by-state-territories
 
 https://www.aihw.gov.au/suicide-self-harm-monitoring/data/suspected-deaths-by-suicide/data-from-suicide-registers
