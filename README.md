@@ -26,7 +26,30 @@ Project 2: Data analysis and visualisation
 ## Solution Architecture
 ![Solution Architecture Diagram](https://github.com/yash-chaudhary/PowerBI_data_visualisation/blob/main/Assets/System%20Architecture%20Diagram%20IoT%20App.png)
 
-## The Dashboard
+## The Dashboard and Detailed Reports
+>Dashboard
+
+
+
+
+>Job Vacancy Detailed Report
+
+
+
+
+>Business Sector Detailed Report
+
+
+
+>Household Wellbeing Detailed Report
+
+
+
+
+>Household Financial Detailed Report
+
+
+
 
 
 ## Key Findings
