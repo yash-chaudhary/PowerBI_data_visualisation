@@ -22,6 +22,8 @@ https://www.aihw.gov.au/reports-data/australias-health-performance/australias-he
 
 https://www.aihw.gov.au/reports-data/australias-health-performance/australias-health-performance-framework/national/all-australia/deaths/deaths/3_4_4?filter=3.4.4|4|2019&filter=3.4.4|2|Deaths&tab=3.4.4|Latest
 
+https://www.abs.gov.au/statistics/people/people-and-communities/household-impacts-covid-19-survey/latest-release#spending
+
 ## Australia's Suicide Statistics
 https://www.aihw.gov.au/suicide-self-harm-monitoring/data/deaths-by-suicide-in-australia/suicide-deaths-by-state-territories
 
