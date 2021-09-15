@@ -44,7 +44,7 @@ NOTE: The dashboard was not published to PowerBI Service, I thought it was accep
 ![Household Financial Detailed Report Image](https://github.com/yash-chaudhary/PowerBI_data_visualisation/blob/main/Assets/household_financial_report.png)
 
 ## Video Demo
-
+![Video Demo](https://vimeo.com/605611957)
 
 ## Key Findings
 >key insights from the data that is represented in the dashboard
