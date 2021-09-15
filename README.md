@@ -47,7 +47,7 @@ NOTE: The dashboard was not published to PowerBI Service, I thought it was accep
 [Video Demo](https://vimeo.com/605611957)
 
 ## Key Findings
->As a disclaimer, since I've made most of my dashboard dynamic its a little bit hard to show you each and every graphs of my findings.
+As a disclaimer, since I've made most of my dashboard dynamic its a little bit hard to show you each and every graphs of my findings.
 
 ### Job Vacancy Findings
 >In June of 2019, the number of job vacancies was sitting at 77,000 for New South Wales (NSW), 60,000 for Victoria (VIC) and 33,000 for Queensland (QLD). However in June of 2020 when the pandemic was in full swing, job vacancies dropped to 40,000 in NSW, 29,000 in VIC and 25,000 in QLD. Thats almost a 50% drop in open job positions in the span of 1 year due to COVID-19 as some businesses were forced to close down for good. However, as 2021 came around where vaccine were being rolled out and lockdowns across Australia were decreasing, things changed. Suddenly the job economy boomed as there were 110,000 job vacancies in NSW, 90,000 in VIC, and 70,000 in QLD. Jobs in smaller states increased by almost 5 times as casual workers had been laid off during lockdowns.
