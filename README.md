@@ -47,5 +47,21 @@ NOTE: The dashboard was not published to PowerBI Service, I thought it was accep
 [Video Demo](https://vimeo.com/605611957)
 
 ## Key Findings
->key insights from the data that is represented in the dashboard
+>As a disclaimer, since I've made most of my dashboard dynamic its a little bit hard to show you each and every graphs of my findings.
+
+### Job Vacancy Findings
+>In June of 2019, the number of job vacancies was sitting at 77,000 for New South Wales (NSW), 60,000 for Victoria (VIC) and 33,000 for Queensland (QLD). However in June of 2020 when the pandemic was in full swing, job vacancies dropped to 40,000 in NSW, 29,000 in VIC and 25,000 in QLD. Thats almost a 50% drop in open job positions in the span of 1 year due to COVID-19 as some businesses were forced to close down for good. However, as 2021 came around where vaccine were being rolled out and lockdowns across Australia were decreasing, things changed. Suddenly the job economy boomed as there were 110,000 job vacancies in NSW, 90,000 in VIC, and 70,000 in QLD. Jobs in smaller states increased by almost 5 times as casual workers had been laid off during lockdowns.
+>
+>During the pandemic, some industries had been hit worst than others. Particularly, the accommodation and food services industry as well as retail trade were impacted the most by lockdowns due to a lack of foot traffic and travelling. As as result their job vacancies dropped from 14,000 and 19,000 respectively in June 2019 to 5,0000 and 11,400 in June 2020. In stark contrast to this, administrative and support services as well as healthcare and social assistance sky-rocketed as a result of medical expertise and contact tracers being high in demand. 
+
+### Business Sector Findings
+Without a question, the total sales in Australia in the large states (NSW, VIC, QLD) dropped as businesses were shutting down and consumers turned to international online vendors. What was worse was that the largest percent change in profits was -51.1% which occured in March of 2020 at the point where the pandemic 
+
+
+### Household Findings
+>Starting from the dashboard page that summarises all the reports, the bar graph displaying the "Proportion of People with Mental Illness by Year" shows us that from 2017 to 2018, the proportion of people with mental illness has remained relatively consistent. However as soon as we hit 2020, the percentage of people experiencing mental illness spikes to 29.6% in New South Wales (NSW), 27% in Victoria (VIC) and 28.3% in Queensland (QLD). Hence the major states which coincidentally had the longest and most frequent pandemic lockdowns have the highest proportion of mental illness. Conversely, although smaller in population, mental illness increased in other states as well like in the Australian Capital Territory (ACT) where in 2019 13.9% of people had a mental illness but in 2020 that jumped to 20.3%.
+>
+>
+
+
 
